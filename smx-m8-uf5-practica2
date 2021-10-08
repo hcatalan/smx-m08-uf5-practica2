@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+   <html>
+     <head>
+     <link rel="stylesheet" href="style.css">
+     <link rel="icon" href="índex.png" type="image/x-icon">
+     <meta name="author" content="Hector Catalan">
+     <meta name="description" content="Esta pagina va sobre los leones.">
+     <script src="script.js" defer></script>
+       <title>Leones</title>
+     </head>
+     <body>
+       <!-- Comentari: El text comentat no apareix a la visualització -->
+       <h1>Leones</h1>
+       <img src="https://static.wikia.nocookie.net/reinoanimalia/images/b/b5/Le%C3%B3n_wiki2.png/revision/latest/top-crop/width/360/height/450?cb=20130303082204&path-prefix=es">
+       <p></p>
+       <h2> Que es el Leon?</h2>
+       <p> Es un <a href="https://es.wikipedia.org/wiki/Mam%C3%ADfero">mamífero</a> carnívoro de la familia de los félidos y una de las cinco especies del género Panthera. Los leones salvajes viven en poblaciones cada vez más dispersas y fragmentadas del <a href="https://es.wikipedia.org/wiki/%C3%81frica_subsahariana">África subsahariana</a> (a excepción de las regiones selváticas de la costa del Atlántico y la cuenca del Congo) y una pequeña zona del noroeste de India (una población en peligro crítico en el parque nacional del Bosque de Gir y alrededores), habiendo desaparecido del resto de <b>Asia del Sur, Asia Occidental, África del Norte y la península balcánica</b> en tiempos históricos.</p>
+       <h2>Morfología</h2>
+       <p>El león es el segundo félido viviente más grande después del <a href="https://es.wikipedia.org/wiki/Panthera_tigris">tigre</a>. Con unas extremidades potentes, una fuerte <mark>mandíbula</mark> y unos dientes caninos de ocho centímetros, el león puede matar grandes presas.​ Los leones poseen el mayor porcentaje de músculo esquelético (estriado) entre todos los mamíferos, con un casi 59 %, lo cual es 1,31 veces más que el promedio para otras especies de mamíferos.
+       
+       <img src="https://www.taxidermiamiguelruiz.es/images/stories/virtuemart/product/D-GEB-L5.jpg">
+       
+       <h2>Caza y dieta</h2>
+       <p>Los leones son animales potentes que suelen cazar en grupos coordinados y sitian la presa elegida. Sin embargo, no tienen una resistencia particularmente elevada por ejemplo, el corazón de una leona solo representa el 0,57 % de su peso corporal, y el de un macho el 0,45 %, mientras que el corazón de una <a href="https://es.wikipedia.org/wiki/Hyaenidae">hiena</a> representa aproximadamente el 10 % de su peso corporal.
+       <p>Las presas de los leones son principalmente mamíferos grandes, con una preferencia por <b>ñus, impalas, cebras, búfalos y facóqueros</b> en África, y <b>nilgós, jabalíes y diversas especies de ciervos</b> en la India. Los leones también cazan muchas otras especies según la disponibilidad, algo que atañe principalmente a los ungulados con un peso de entre 50 y 300 kilogramos, como kudus, alcelafos, órices de El Cabo y elands.</p>
+       <img src="https://c.tenor.com/kRsBUCE7H5EAAAAC/leon-caza.gif"> 
+</body>
+</html>
+
